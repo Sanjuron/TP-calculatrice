@@ -1,0 +1,2 @@
+- réflechir à la possibilité de le faire en sass (rien de sûr)
+-lister ici toutes les possibles étapes à suivre
