@@ -1,0 +1,64 @@
+p{
+    border: 1px solid black;
+    width : 2%;
+    height: 2%;
+    font-weight: bold;
+    text-align: center;
+    padding: 8%;
+    margin: 2%;
+}
+
+#calculator{
+    display: flex;
+    flex-wrap: wrap;
+    width : 450px;
+    height: 600px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#result{
+    border: 1px solid black;
+    background-color: black;
+    width: 450px;
+    height: 100px;
+    }
+
+#operators{
+    border: 1px solid black;
+    display: flex;
+    width: 450px;
+    height: 100px;
+}
+
+.numbers{
+    display: flex;
+    flex-wrap: wrap; 
+    border: 1px solid black; /* à enlever lorsque desing définitif */
+    height: 350px;
+    width: 300px;
+}
+
+.numbers__individual{
+    height : 55px;
+    width: 55px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#equal{
+    height: 350px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.equal-sign{
+    margin-top: 150%;
+    margin-left: 33%;
+    border: none;
+}
+
+.second-part{
+    display: flex;
+    margin: 2%;
+}
