@@ -1,4 +1,4 @@
 - réflechir à la possibilité de le faire en sass (rien de sûr)
 - lister ici toutes les possibles étapes à suivre
 - Je vais peut-être devoir remplacer tous mes paragraphes par des <a>. ça semble plus évident si ce sont des touches. à voir... 
-- je viens d'ajouter ça directement sur github. Je teste voir sit "git pull" me met à jour en local. Si c'est le cas, ça veut dire que je peux faire des retouches (surtout les orthographiques) directement ici, pas besoin de relancer vsc à chaque fois. Non ça n'est pas ça.
+- je viens d'ajouter ça directement sur github. Je teste voir sit "git pull" me met à jour en local. Si c'est le cas, ça veut dire que je peux faire des retouches (surtout les orthographiques) directement ici, pas besoin de relancer vsc à chaque fois. Non ça n'est pas ça. Si c'est bien ça, mais je dois logiquement d'abord valider chaque changement dans git en cliquant sur "commit changes" en bas!
