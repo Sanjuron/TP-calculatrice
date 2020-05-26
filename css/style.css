@@ -1,4 +1,4 @@
-p{
+button{
     border: 1px solid black;
     width : 2%;
     height: 2%;
@@ -27,21 +27,26 @@ p{
 #operators{
     border: 1px solid black;
     display: flex;
+    justify-content: space-between;
     width: 450px;
     height: 100px;
 }
 
+/* .operators__individual{
+
+} */
+
 .numbers{
     display: flex;
     flex-wrap: wrap; 
-    border: 1px solid black; /* à enlever lorsque desing définitif */
+    border: 1px solid black; /* à enlever lorsque design définitif */
     height: 350px;
     width: 300px;
 }
 
 .numbers__individual{
-    height : 55px;
-    width: 55px;
+    height : 65px;
+    width: 65px;
     padding: 5px;
     margin: 10px;
 }
